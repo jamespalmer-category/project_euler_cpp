@@ -24,5 +24,4 @@ int main() {
     cout << "Enter Number to find highest prime factor of" << "\n";
     cin >> number;
     cout << "The largest prime factor of " << number << " is " << largest_prime_factor(number) << "\n";  
-
 }
